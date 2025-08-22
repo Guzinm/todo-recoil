@@ -28,23 +28,6 @@ Um projeto simples de lista de tarefas feito com **React** e **Recoil**, utiliza
 
 ---
 
-## 📂 Estrutura Simplificada
-
-src/
-├── components/
-│ ├── FormularioNovaTarefa.jsx # Formulário para adicionar novas tarefas
-│ ├── ListaTarefas.jsx # Lista que renderiza as tarefas
-│ ├── Tarefa.jsx # Componente individual de tarefa
-│ ├── FiltroVisualizacao.jsx # Componente que renderiza os filtros
-│ └── Filtro.jsx # Botão de filtro (radio)
-│
-├── state/
-│ └── lista.js # Átomos e seletores do Recoil
-│
-└── App.jsx # Montagem dos componentes principais
-
----
-
 ## ▶️ Como Rodar Localmente
 
 1. Clone o repositório:
